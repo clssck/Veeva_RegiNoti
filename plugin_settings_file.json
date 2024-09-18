@@ -1,0 +1,10 @@
+{
+  "deployment_option": "replace_all",
+  "package_name": "LilRegiNoti",
+  "package_type": "migration__v",
+  "package_summary": "Registration Lifecycle Notification",
+  "package_description": "Lets send a notification the to registration responsible when a lifecycle change occurs.",
+  "author": "AUTHOR",
+  "vault_id": "VAULT_ID",
+  "replace_existing": true
+}

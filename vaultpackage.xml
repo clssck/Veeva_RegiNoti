@@ -1,0 +1,12 @@
+<vaultpackage xmlns="https://veevavault.com/">
+<name>Registration Lifecycle Notification</name>
+<source>
+<vault></vault>
+<author>AUTHOR</author>
+</source>
+<summary>Just a test of some sorts</summary>
+<description>Bejön a milli. Kislány annyira fini</description>
+<javasdk>
+	<deployment_option>replace_all</deployment_option>
+</javasdk>
+</vaultpackage>

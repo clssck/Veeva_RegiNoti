@@ -1,0 +1,17 @@
+{
+  "authenticationType": "BASIC",
+  "idpOauthAccessToken": "",
+  "idpOauthScope": "openid",
+  "idpUsername": "",
+  "idpPassword": "",
+  "vaultUsername": "USERNAME",
+  "vaultPassword": "PASSWORD",
+  "vaultDNS": "DNS",
+  "vaultSessionId": "",
+  "vaultClientId": "CLIENT_ID",
+  "vaultOauthClientId": "",
+  "vaultOauthProfileId": "",
+  "logApiErrors": true,
+  "httpTimeout": null,
+  "validateSession": true
+}
