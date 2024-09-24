@@ -31,3 +31,6 @@ mvn vaultjavasdk:clean
 mvn vaultjavasdk:package
 mvn vaultjavasdk:validate
 ```
+
+![example1](/lilregi1.png "example 1")
+![example2](/lilregi2.png "example 2")
